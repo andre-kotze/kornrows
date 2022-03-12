@@ -23,15 +23,15 @@ kornmodel960m<br>
 Locally trained model with 684 images<br>
 ```--img 960 batch 4 --epochs 100 --data korn.yaml --cfg models/yolov5m.yaml```
 <br>
-Computing time: ~31 hours<br>
-mAP@0.5: unknown
+Computing time: ~39 hours<br>
+mAP@0.5: 0.81
 <br><br>
 kornmodel960l_1200<br>
 Colab trained model with 1200 images<br>
 ```--img 960 --batch 8 --epochs 150 --data korn.yaml --cfg models/yolov5l.yaml```
 <br>
 Computing time: ?<br>
-mAP@0.5: unknown
+mAP@0.5: 
 <br>
 </p>
 
