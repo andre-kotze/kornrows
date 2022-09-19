@@ -1,0 +1,4 @@
+train: second50_shuffled0/images/train
+val: second50_shuffled0/images/validation
+nc: 1
+names: ["cc"]
